@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Web</title>
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="main">
+    <ul>
+          <li><a href="#">My Web!!</a></li>
+    </ul>
+    </div>
+    <div class="title">
+       <h1>Welcome!!</h1>
+    </div>
+    <div class="form">
+    <table allign="center" cellspacing="8" cellpadding="8">
+    <tr>
+    <td>
+    <label>select file to upload</label>
+    </td>
+    <td><input type="file" name="file" id="file"></td>
+    </tr>
+    
+    </table>
+    </div>
+ </header>
+</body>
